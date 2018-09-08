@@ -16,3 +16,7 @@ The various operations performed on the image are:
 8) Rotation by 90 and 180 Degrees/Flipping
 
 With the above methods, the given image is augmented to multiple similar size images and stored in the directory.
+
+The Libraries used for this code are: OpenCV and Numpy
+https://opencv.org/releases.html
+
